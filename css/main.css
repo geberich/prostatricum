@@ -1071,3 +1071,15 @@ form {
 	line-height: 5px;
 	margin-right: 7px !important;
 }
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1500px) {
+ wv_new-price: font-size: 59px !important;
+}
