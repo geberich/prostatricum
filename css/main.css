@@ -1082,4 +1082,5 @@ form {
 
 @media screen and (min-width: 1500px) {
  wv_new-price: font-size: 59px !important;
+ wv_currency: font-size: 59px !important;
 }
