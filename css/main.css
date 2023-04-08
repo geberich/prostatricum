@@ -1071,17 +1071,3 @@ form {
 	line-height: 5px;
 	margin-right: 7px !important;
 }
-
-
-
-
-
-
-
-
-
-@media screen and (min-width: 1500px) {
-	.wv_new-price { font-size: 59px !important;}
-	.wv_currency { font-size: 59px !important;}
-	.curr { font-size: 30px !important;}
-}
