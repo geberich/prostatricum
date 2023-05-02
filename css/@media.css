@@ -249,6 +249,7 @@
 	}
 	.expert_photo .name{
 		display: block;
+		margin-top: 20px;
 	}
 	.expert_photo img{
 		width: 100%;
@@ -424,6 +425,7 @@
 		padding: 0px;
 		margin-bottom: 20px;
 		margin-top: 20px;
+		
 	}
 	.footer .short_inf_item li{
 		margin-right: 10px;
@@ -439,6 +441,16 @@
 	}
 }
 @media screen and (max-width: 575px){
+	.vnimanie {
+		width: 320px;
+		margin-top: 20px;
+    }
+	.poddelka {
+		height: 390px;
+		width: auto;
+		margin-top: 20px;
+		
+	}
 	.container-fluid{
 		max-width: 320px;
 		min-width: 320px;
@@ -530,7 +542,7 @@
 		margin-top: 0px;
 	}
 	.old_price{
-		text-align: left;
+		text-align: left -10px;
 	}
 	.only{
 		font-size: 18px;
@@ -561,7 +573,6 @@
 		margin-top: 790px;
 	}
 	.short_inf_item{
-		background: #fff;
 		padding-left: 5px;
 	}
 	.short_inf_item img{
@@ -800,6 +811,8 @@
 		margin-left: auto;
 		margin-right: auto;
 		margin-bottom: 30px;
+		height: 190px;
+	    width: auto;
 	}
 	.review_item span{
 		float: none;
@@ -856,7 +869,7 @@
 		padding-bottom: 30px;
 	}
 	.footer .order_time_img img{
-		top: 545px;
+		top: 575px;
 		max-width: 390px;
 		height: auto;
 	}
@@ -874,7 +887,7 @@
 		background: #fff;
 	}
 	.footer .short_inf_item{
-		margin-top: 320px;
+		margin-top: 350px;
 		margin-bottom: 50px;
 		padding-left: 10px;
 		flex-direction: column;
