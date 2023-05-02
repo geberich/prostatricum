@@ -99,7 +99,7 @@ li{
 	color: #0A2430;
 	font-size: 18px;
 	line-height: 50px;
-	padding: 0px 15px;
+	padding: 0px 10px;
 	font-family: 'RobotoR';
 }
 .menu_item a:hover{
@@ -238,9 +238,10 @@ ul.dropdown a{
 .short_inf_item li span{
 	display: block;
 	width: 250px;
-	color: #194A5B;
+	color: #1c7ba3f5;
 	text-transform: uppercase;
 	font-size: 16px;
+	font-weight: bold;
 }
 .short_inf_item{
 	margin-bottom: 145px;
@@ -344,13 +345,13 @@ ul.dropdown a{
 	font-size: 24px;
 	margin-right: 70px;
 	margin-bottom: 15px;
-	color: #FF7200;
-  font-family: 'RobotoB';
+	color: #e55f40f5;
+    font-family: 'RobotoB';
 }
 .countdown-container{
 	font-size: 21px;
 	margin-right: 70px;
-	color: #909597;
+	color: #5e5e5ef5;
 }
 .countdown-container span{
 	display: inline-block;
@@ -360,7 +361,7 @@ ul.dropdown a{
 	margin-left: 5px;
 	border-radius: 50%;
 	font-size: 21px;
-	color: #909597;
+	color: #5e5e5ef5;
 	text-align: center;
 	line-height: 40px;	
 	background: #F3F3F3;
@@ -464,7 +465,7 @@ ul.dropdown a{
 	margin-left: -6px;
 }
 .wv_order-form .text span b{
-	color: #18B6E5;
+	color: #d94b2bf5;
 	font-size: 18px;
 }
 
@@ -827,6 +828,8 @@ ul.dropdown a{
 .review_item img{
 	margin-bottom: 65px;
 	margin-left: -20px;
+	height: 206px;
+	width: auto;
 }
 .review_item span{
 	display: block;
@@ -958,6 +961,7 @@ ul.dropdown a{
 .copyright{
 	padding: 0 20px 20px;
 	text-align: center;
+	margin-top: 30px;
 }
 
 form {
@@ -1070,4 +1074,21 @@ form {
 	font-size: 12px !important;
 	line-height: 5px;
 	margin-right: 7px !important;
+}
+
+.vnimanie {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 50px;
+	margin-top: 10px;
+}
+
+.vnimanie span {
+	color: red;
+	font-size: 23px;
+}
+
+.poddelka {
+	height: 300px;
+	width: auto;
 }
